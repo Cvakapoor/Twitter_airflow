@@ -13,15 +13,6 @@ This project demonstrates a Twitter ETL pipeline built with **Tweepy**, orchestr
 
 ---
 
-## 🛠️ Project Structure
-
-├── dags/
-│ └── twitter_dag.py # Airflow DAG definition
-├── etl/
-│ └── twitter_etl.py # Tweepy-based ETL script
-├── README.md # This file
-
-
 
 ---
 
