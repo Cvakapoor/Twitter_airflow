@@ -11,6 +11,11 @@ This project demonstrates a Twitter ETL pipeline built with **Tweepy**, orchestr
 - **Load**: Saves the cleaned tweet data as a CSV to **Amazon S3**.
 - **Orchestration**: Managed using **Apache Airflow**, deployed on an EC2 instance.
 
+## 📊 Architecture Overview
+
+The following diagram illustrates the system architecture for the Twitter ETL pipeline:
+
+
 ---
 
 
