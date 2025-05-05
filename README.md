@@ -34,7 +34,6 @@ This project demonstrates a Twitter ETL pipeline built with **Tweepy**, orchestr
 - Generate a **Bearer Token** for API v2.
 - Store the token securely via Airflow Variables or environment variables.
 
-```bash
 airflow variables set TWITTER_BEARER_TOKEN "your_bearer_token_here"
 
 ### 2. AWS Setup
@@ -65,13 +64,13 @@ Visit http://<EC2-public-IP>:8080 in your browser.
 
 Enable and run the twitter_etl_dag.
 
-🧾 Sample Output
+# 🧾 Sample Output
 
 CSV file: football_tweets.csv
 
 Stored in: s3://your-bucket-name/twitter/football_tweets.csv
 
-🐍 Python Requirements
+# 🐍 Python Requirements
 
 Install dependencies:
 
