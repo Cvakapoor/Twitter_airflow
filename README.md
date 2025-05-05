@@ -15,7 +15,7 @@ This project demonstrates a Twitter ETL pipeline built with **Tweepy**, orchestr
 
 The following diagram illustrates the system architecture for the Twitter ETL pipeline:
 
-
+![Image](https://github.com/user-attachments/assets/58505c2a-bf37-423b-99f3-95af5b822dfa)
 ---
 
 
